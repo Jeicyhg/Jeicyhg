@@ -22,7 +22,7 @@ I'm experienced in creating robust Databases to handle various use case scenario
 
 <br/>  
 
-- 🏗️ I’m currently working on building my online presence and getting an internship  
+- 🏗️ I’m currently working on building my online presence and working on getting an internship  
   
 
 - 🌱 I’m currently learning typescript  
