@@ -31,7 +31,7 @@ I'm experienced in creating robust Databases to handle various use case scenario
 - 🔬 Learning through curiosity, now researching image recognition to help my robot pick things up from a pile
   
 
-- ⚡:f Fun fact: I helped develop a game in 2 days with 0 coding experience, it was buggy but it worked!  
+- ⚡ Fun fact: I helped develop a game in 2 days with 0 coding experience, it was buggy but it worked!  
   
 
 <br/>  
