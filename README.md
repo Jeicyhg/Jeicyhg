@@ -22,16 +22,16 @@ I'm experienced in creating robust Databases to handle various use case scenario
 
 <br/>  
 
-- 🏗️ I’m currently working on building my online presence and looking for an internship  
+- 🏗️ Building my online presence and starting my career in tech  
   
 
-- 🌱 I’m currently learning typescript  
+- 🦾 Working on a robotic arm project using Arduino and custom inverse kinematics code to move it autonomously
   
 
-- 🔬Currently studying [Fundamentals of Computer Networking](https://catalog.northeastern.edu/search/?P=CS%205700)  
+- 🔬 Learning through curiosity, now researching image recognition to help my robot pick things up from a pile
   
 
-- ⚡ Fun fact: I helped develop a game in 2 days with 0 coding experience, it was buggy but it worked!  
+- ⚡:f Fun fact: I helped develop a game in 2 days with 0 coding experience, it was buggy but it worked!  
   
 
 <br/>  
